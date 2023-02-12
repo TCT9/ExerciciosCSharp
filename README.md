@@ -9,10 +9,8 @@
 #### Exemplo de saída do console:
 ```
 Informe a quantidade de elementos do array: 3
-Digite os elementos do array: 
-
-
-
+Digite os elementos do array: 10 - 2,14 - 234
+Menor: 2,14    Maior: 234
 ```
 
 2. [LP02](Exemplo03) Percentual de votos
