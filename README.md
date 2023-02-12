@@ -7,7 +7,7 @@
 1. [LP01](Exemplo02) Qual o maior e o menor número em um array?
 #### Ajuda: https://www.geeksforgeeks.org/console-setcursorposition-method-in-c-sharp/
 #### Exemplo de saída do console:
-```C#
+```
 Informe a quantidade de elementos do array: 3
 Digite os elementos do array: 
 
